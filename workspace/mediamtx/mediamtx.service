@@ -1,0 +1,11 @@
+[Unit]
+Description=Stream Camera Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash -c "sleep 10 && cd /home/pi/workspace/mediamtx/ && ./mediamtx"
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

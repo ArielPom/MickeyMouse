@@ -1,0 +1,14 @@
+[Unit]
+Description=send tof range to esp32
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash -c "sleep 30 && python3 /home/pi/workspace/tof_reader/send_range_to_esp.py"
+StartLimitInterval=0
+
+Restart=always
+RestartSec=2s
+
+[Install]
+WantedBy=multi-user.target
