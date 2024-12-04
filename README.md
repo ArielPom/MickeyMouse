@@ -8,9 +8,8 @@ In this project, we present a solution to this challenge with a small robotic pl
 
 ![image](https://github.com/user-attachments/assets/62b5179c-b61e-4fb2-be84-dc50984f22e6)
 
-
 ![image](https://github.com/user-attachments/assets/a8ad23b8-df0d-4f5a-a1c7-b464b4fae617)
 
 ![image](https://github.com/user-attachments/assets/82fd9cca-e1d7-431d-885b-1978b5987280)
 
-![image](https://github.com/user-attachments/assets/e3369928-a2da-45bd-8e79-e57769f2d925)
+![image](https://github.com/user-attachments/assets/c50f3de6-1691-4291-a681-1cb2a54f7f80)
