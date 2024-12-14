@@ -14,8 +14,7 @@ In this project, we present a solution to this challenge with a small robotic pl
 
 
 
-https://github.com/user-attachments/assets/b11ff844-afed-4994-94fc-1b4a6adc9aae
-
+https://github.com/user-attachments/assets/07d5b7e0-4977-4a11-a6cb-001526990606
 
 
 ![image](https://github.com/user-attachments/assets/c50f3de6-1691-4291-a681-1cb2a54f7f80)
